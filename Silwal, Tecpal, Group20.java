@@ -43,6 +43,8 @@ class BankAccount{
     private int id;
     private char accountType;
     private double balance;
+    private int 5;
+    private string aaja;
     
     String getstrName(){
         return this.strName;   
