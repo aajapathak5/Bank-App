@@ -43,6 +43,7 @@ class BankAccount{
     private int id;
     private char accountType;
     private double balance;
+ private string deepen;
     
     String getstrName(){
         return this.strName;   
